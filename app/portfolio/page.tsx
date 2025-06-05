@@ -16,7 +16,7 @@ export default function Portfolio() {
       description: "Refrescante e revigorante, ajuda a limpar as vias respiratórias.",
     },
     {
-      src: "/images/tea-tree.PNG",
+      src: "/images/teatree.PNG",
       alt: "Óleo Essencial de Tea Tree",
       name: "Óleo de Tea Tree",
       description: "Antisséptico natural, excelente para problemas de pele.",
@@ -58,7 +58,7 @@ export default function Portfolio() {
       description: "Floral e exótico, reduz a tensão e promove sentimentos positivos.",
     },
     {
-      src: "/images/bergamota.PNG",
+      src: "/images/Bergamota.png",
       alt: "Óleo Essencial de Bergamota",
       name: "Óleo de Bergamota",
       description: "Cítrico e refrescante, equilibra as emoções e reduz o estresse.",
