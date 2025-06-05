@@ -15,7 +15,7 @@ export default function Home() {
         </div>
         <div className="w-full md:w-2/5 h-64 md:h-auto relative">
           <Image
-            src="/images/heroimage.JPG"
+            src="./images/heroimage.JPG"
             alt="Óleos Essenciais Produtos Zen - Frascos de âmbar com lavanda e ervas naturais"
             className="object-cover h-full w-full"
             fill
