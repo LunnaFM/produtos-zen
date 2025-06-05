@@ -4,37 +4,37 @@ export default function Portfolio() {
   // Array of essential oil products with real images
   const products = [
     {
-      src: "./images/lavanda.png",
+      src: "./images/lavanda.PNG",
       alt: "Óleo Essencial de Lavanda",
       name: "Óleo de Lavanda",
       description: "Relaxante e calmante, ideal para reduzir o estresse e melhorar o sono.",
     },
     {
-      src: "./images/eucalipto.png",
+      src: "./images/eucalipto.PNG",
       alt: "Óleo Essencial de Eucalipto",
       name: "Óleo de Eucalipto",
       description: "Refrescante e revigorante, ajuda a limpar as vias respiratórias.",
     },
     {
-      src: "./images/tea-tree.png",
+      src: "./images/tea-tree.PNG",
       alt: "Óleo Essencial de Tea Tree",
       name: "Óleo de Tea Tree",
       description: "Antisséptico natural, excelente para problemas de pele.",
     },
     {
-      src: "./images/hortela-pimenta.png",
+      src: "./images/hortelapimenta.PNG",
       alt: "Óleo Essencial de Hortelã-Pimenta",
       name: "Óleo de Hortelã-Pimenta",
       description: "Energizante e refrescante, alivia dores de cabeça e melhora a concentração.",
     },
     {
-      src: "./images/limao.png",
+      src: "./images/limao.PNG",
       alt: "Óleo Essencial de Limão",
       name: "Óleo de Limão",
       description: "Purificante e revigorante, eleva o humor e limpa o ambiente.",
     },
     {
-      src: "./images/laranja.png",
+      src: "./images/laranja.PNG",
       alt: "Óleo Essencial de Laranja",
       name: "Óleo de Laranja",
       description: "Alegre e estimulante, reduz a ansiedade e promove bem-estar.",
@@ -46,19 +46,19 @@ export default function Portfolio() {
       description: "Estimulante mental, melhora a memória e a clareza mental.",
     },
     {
-      src: "./images/camomila.png",
+      src: "./images/camomila.PNG",
       alt: "Óleo Essencial de Camomila",
       name: "Óleo de Camomila",
       description: "Suave e calmante, ideal para relaxamento e sono tranquilo.",
     },
     {
-      src: "./images/ylang-ylang.png",
+      src: "./images/ylangylang.PNG",
       alt: "Óleo Essencial de Ylang Ylang",
       name: "Óleo de Ylang Ylang",
       description: "Floral e exótico, reduz a tensão e promove sentimentos positivos.",
     },
     {
-      src: "./images/bergamota.png",
+      src: "./images/bergamota.PNG",
       alt: "Óleo Essencial de Bergamota",
       name: "Óleo de Bergamota",
       description: "Cítrico e refrescante, equilibra as emoções e reduz o estresse.",
