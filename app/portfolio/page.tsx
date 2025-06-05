@@ -40,7 +40,7 @@ export default function Portfolio() {
       description: "Alegre e estimulante, reduz a ansiedade e promove bem-estar.",
     },
     {
-      src: "./images/alecrim.png",
+      src: "./images/alecrim.PNG",
       alt: "Óleo Essencial de Alecrim",
       name: "Óleo de Alecrim",
       description: "Estimulante mental, melhora a memória e a clareza mental.",
