@@ -4,7 +4,7 @@ export default function Portfolio() {
   // Array of essential oil products with real images
   const products = [
     {
-      src: "./images/lavanda.PNG",
+      src: "/produtos-zen/public/images/lavanda.PNG",
       alt: "Óleo Essencial de Lavanda",
       name: "Óleo de Lavanda",
       description: "Relaxante e calmante, ideal para reduzir o estresse e melhorar o sono.",
